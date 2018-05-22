@@ -1,7 +1,6 @@
-<head>
+
   <meta charset="utf-8">
     <title>
-      Borderland Les Armes!
+      CV de Léo LEDOCQ
     </title>
   <link rel="stylesheet" type="text/css" href="css/arme.css">
-</head>
